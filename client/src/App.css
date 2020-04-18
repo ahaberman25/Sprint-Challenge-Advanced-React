@@ -31,3 +31,24 @@
     transform: rotate(360deg);
   }
 }
+
+/* my styles */
+body {
+  background-color: white;
+}
+
+.dark-mode {
+  color: #fff;
+  background-color: #282c34;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cardRoot {
+  width: 32%;
+  margin: .5%;
+}
